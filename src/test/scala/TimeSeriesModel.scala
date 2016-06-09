@@ -4,23 +4,17 @@
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
-import org.apache.spark.ml.classification.RandomForestClassifier
-import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
-import org.apache.spark.ml.feature.VectorAssembler
-import org.apache.spark.ml.tuning.CrossValidator
-import org.apache.spark.ml.Pipeline
-import org.apache.spark.sql.{SQLContext, DataFrame}
 
+import org.apache.spark.sql.SQLContext
 import org.apache.spark.sql.functions._
-import org.apache.spark.mllib.linalg.{Vector, Vectors}
+import org.apache.spark.sql.DataFrame
 
- import org.apache.spark.ml.feature.VectorAssembler
- import org.apache.spark.mllib.linalg.Vectors
- import org.apache.spark.ml.classification.RandomForestClassifier
- import org.apache.spark.ml.evaluation.BinaryClassificationEvaluator
- import org.apache.spark.ml.tuning.CrossValidator
- import org.apache.spark.ml.Pipeline
- import org.apache.spark.sql.DataFrame
+import org.apache.spark.ml.Pipeline
+import org.apache.spark.ml.evaluation.RegressionEvaluator
+import org.apache.spark.ml.feature.VectorIndexer
+import org.apache.spark.ml.feature.VectorAssembler
+import org.apache.spark.ml.regression.{RandomForestRegressionModel, RandomForestRegressor}
+
 object TimeSeriesModel {
 
   def main(args: Array[String]): Unit = {
@@ -38,6 +32,18 @@ object TimeSeriesModel {
                             .withColumn("label", lit(0.0))
 
     //Need to use a ForLoop to get the data from dir and Load into Data Frames
+  /*
+    var dfTS: DataFrame = null;
+    for (file <- files) {
+    val fileDf= sc.textFile(file)
+      if (df!= null) {
+         df= df.unionAll(fileDf)
+       } else {
+      df= fileDf
+      }
+     }
+  */
+
     var dfTS: DataFrame = null
 
     val dfTS0 =sqlContext.read.json(s"/mnt/interview_data_yJBC/sample_user_0.json.gz").withColumn("label", lit(0.0))
@@ -63,14 +69,49 @@ object TimeSeriesModel {
     // select only label(Double) and features Array[Vector.dense] and Cache
      val dataTimeSeries = output.select("label","features").cache()
 
-    // Train the model and Cross validate
-    val rf = new RandomForestClassifier()
+    // Split the data into training and test sets (30% held out for testing)
+    val Array(trainingData, testData) = dataTimeSeries.randomSplit(Array(0.7, 0.3))
 
-    val pipeline = new Pipeline().setStages(Array(rf))
+     // Train a RandomForest model.
+     val rf = new RandomForestRegressor()
+       .setLabelCol("label")
+       .setFeaturesCol("features")
 
-    val cv = new CrossValidator().setNumFolds(10).setEstimator(pipeline).setEvaluator(new BinaryClassificationEvaluator)
+     // Chain forest in a Pipeline.
+     val pipeline = new Pipeline().setStages(Array(rf))
 
-    val cmModel = cv.fit(output)
+     // Train model.
+     val model = pipeline.fit(trainingData)
+
+     // Make predictions.
+     val predictions = model.transform(testData)
+
+     println(predictions.select("prediction", "label", "features").show(5))
+
+    // Select (prediction, true label) and compute test error
+    val evaluator = new RegressionEvaluator()
+      .setLabelCol("label")
+      .setPredictionCol("prediction")
+      .setMetricName("rmse")
+
+    val rmse = evaluator.evaluate(predictions)
+    println("Root Mean Squared Error (RMSE) on test data = " + rmse)
+
+
+    /*
+       // Train the model and Cross validate
+      val rf = new RandomForestClassifier()
+
+      val pipeline = new Pipeline().setStages(Array(rf))
+
+      val cv = new CrossValidator()
+         .setNumFolds(10)
+         .setEstimator(pipeline)
+         .setEvaluator(new BinaryClassificationEvaluator)
+
+      val cmModel = cv.fit(output)
+
+    */
 
   }
 
