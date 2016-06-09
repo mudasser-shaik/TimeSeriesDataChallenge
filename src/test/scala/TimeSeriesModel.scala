@@ -37,7 +37,7 @@ object TimeSeriesModel {
     val df = sqlContext.read.json("/mnt/interview_data_yJBC/sample_user_0.json.gz")
                             .withColumn("label", lit(0.0))
 
-    //need to use a ForLoop to get the data and Load into Data Frames
+    //Need to use a ForLoop to get the data from dir and Load into Data Frames
     var dfTS: DataFrame = null
 
     val dfTS0 =sqlContext.read.json(s"/mnt/interview_data_yJBC/sample_user_0.json.gz").withColumn("label", lit(0.0))
@@ -48,17 +48,8 @@ object TimeSeriesModel {
     dfTS.unionAll(dfTS1)
     dfTS.unionAll(dfTS2)
 
-    // to check the lables
+    // Check the distinct lables
     println(dfTS.select("label").distinct)
-
-//    // To convert DF Column 'User_ID' to 'label'
-//    val dfTS_f = dfTS.withColumnRenamed("User_ID","label")
-//    dfTS_f.printSchema
-
-//    // UDF To Transform the 'label' from Int to Double
-//    val toDouble    = udf[Double, Int](_.toDouble)
-//    val train = dfTS_f.withColumn("label", toDouble(output("label")))
-
 
     // VectorAssembler: Transformer to combine list of columns(0 to 199) into a single vector column
      val x = (1 to 199).map(_.toString).toArray
@@ -69,10 +60,8 @@ object TimeSeriesModel {
 
      val output = assembler.transform(dfTS)
 
-    // select only label(Double) and features Array[Vector.dense]
+    // select only label(Double) and features Array[Vector.dense] and Cache
      val dataTimeSeries = output.select("label","features").cache()
-
-    println(dataTimeSeries.select("label").distinct.show)
 
     // Train the model and Cross validate
     val rf = new RandomForestClassifier()
