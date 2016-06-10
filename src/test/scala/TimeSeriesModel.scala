@@ -28,7 +28,7 @@ object TimeSeriesModel {
     val sqlContext = new SQLContext(sc)
 
     // Load the data from S3 --> json.gz
-    val df = sqlContext.read.json("/mnt/interview_data_yJBC/sample_user_0.json.gz")
+    val df = sqlContext.read.json("/mnt/dataChallengeTS/sample_user_0.json.gz")
                             .withColumn("label", lit(0.0))
 
     //Need to use a ForLoop to get the data from dir and Load into Data Frames
@@ -46,9 +46,9 @@ object TimeSeriesModel {
 
     var dfTS: DataFrame = null
 
-    val dfTS0 =sqlContext.read.json(s"/mnt/interview_data_yJBC/sample_user_0.json.gz").withColumn("label", lit(0.0))
-    val dfTS1 =sqlContext.read.json(s"/mnt/interview_data_yJBC/sample_user_1.json.gz").withColumn("label", lit(1.0))
-    val dfTS2 =sqlContext.read.json(s"/mnt/interview_data_yJBC/sample_user_2.json.gz").withColumn("label", lit(2.0))
+    val dfTS0 =sqlContext.read.json(s"/mnt/dataChallengeTS/sample_user_0.json.gz").withColumn("label", lit(0.0))
+    val dfTS1 =sqlContext.read.json(s"/mnt/dataChallengeTS/sample_user_1.json.gz").withColumn("label", lit(1.0))
+    val dfTS2 =sqlContext.read.json(s"/mnt/dataChallengeTS/sample_user_2.json.gz").withColumn("label", lit(2.0))
 
     dfTS.unionAll(dfTS0)
     dfTS.unionAll(dfTS1)
