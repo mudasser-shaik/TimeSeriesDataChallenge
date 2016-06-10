@@ -1,5 +1,5 @@
-# TrueMotionTimeSeries
-Data challenge from TrueMotion on TimeSeries data. 
+# TimeSeries
+Data challenge on TimeSeries data. 
 Each User has a File sample_user_(0 to 9)
 
 val timeSeriesDF = sqlContext.read.json("/mnt/interview_data_yJBC/sample_user_0.json.gz")
@@ -19,8 +19,9 @@ User*
     |-- 106: double (nullable = true)
     |-- 107: double (nullable = true) 
     |-- 108: double (nullable = true)
-    |-- 199: double (nullable = true
     ......
+    |-- 199: double (nullable = true
+    
 
 Label    -> User-> 0 to 9
 features -> values -> 0 to 199
