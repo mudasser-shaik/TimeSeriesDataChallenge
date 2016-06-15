@@ -12,7 +12,7 @@
 [debug] == resolving dependencies for default#truemotiontimeseries$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cd50d4e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a140d47
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -21,7 +21,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@730a1ce9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29758091
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-core_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->runtime]
@@ -29,7 +29,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-core_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-mapred;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c44b314
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4827fbb5
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-mapred;1.7.7
 [debug] 	found org.apache.avro#avro-mapred;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->runtime]
@@ -37,7 +37,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-mapred;1.7.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro-ipc;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b41cadc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25800f09
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro-ipc;1.7.7
 [debug] 	found org.apache.avro#avro-ipc;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->runtime]
@@ -45,7 +45,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro-ipc;1.7.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7aacdebf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@384adf6a
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.7
 [debug] 	found org.apache.avro#avro;1.7.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->runtime]
@@ -53,7 +53,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.avro#avro;1.7.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f5e4b77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d1551f4
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->runtime]
@@ -61,7 +61,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-core-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.9.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22462413
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17dc390b
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.9.13
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.9.13 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->runtime]
@@ -69,7 +69,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-mapper-asl;1.9.13 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48d79a01
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14c23e18
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -77,7 +77,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c796d71
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@117112ae
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -85,7 +85,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.11;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b1543dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ddec4b0
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.11;0.5.0
 [debug] 	found com.twitter#chill_2.11;0.5.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->runtime]
@@ -93,7 +93,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill_2.11;0.5.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24acab70
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@451c33b1
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->runtime]
@@ -101,7 +101,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#chill-java;0.5.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40e41ed7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79d4461c
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->runtime]
@@ -109,7 +109,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9871906
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22c39268
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->runtime]
@@ -117,7 +117,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@171e8560
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@165dbb4
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->runtime]
@@ -125,7 +125,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114df637
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15cda39c
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->runtime]
@@ -133,7 +133,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.objenesis#objenesis;1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->default(compile)]
 [info] Resolving org.apache.xbean#xbean-asm5-shaded;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1391cb37
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39bf0c32
 [debug] sbt-chain: module revision found in cache: org.apache.xbean#xbean-asm5-shaded;4.4
 [debug] 	found org.apache.xbean#xbean-asm5-shaded;4.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->runtime]
@@ -141,7 +141,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.xbean#xbean-asm5-shaded;4.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ff76aef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36ed714b
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -149,7 +149,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b9206a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59724ecc
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -157,7 +157,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34070211
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c5bf96d
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -165,7 +165,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36b1375a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4297f730
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -173,7 +173,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@451ffc5f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43f420ba
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -181,7 +181,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dd64fac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@559dd738
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -189,7 +189,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24401b6b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37235185
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -197,7 +197,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5300c383
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ee93cfd
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -205,7 +205,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cd36dbe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6063d864
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -213,7 +213,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a48d265
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f4234b3
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -221,7 +221,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3047dea7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43c0b835
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -229,7 +229,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6800f291
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73972584
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -237,7 +237,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71b27080
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a7c30e3
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -245,7 +245,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b16d7d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76f13acd
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -253,7 +253,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d3a4ac1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@741877d
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->runtime]
@@ -261,7 +261,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ab4a4ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c9b38d4
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->runtime]
@@ -269,7 +269,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43f2c113
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ddb08ff
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->runtime]
@@ -277,7 +277,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f2c36a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30857214
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-api;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->runtime]
@@ -285,7 +285,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@355e8db9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54d05f22
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -293,7 +293,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@249ffad9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66e346b6
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -301,7 +301,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fc88f91
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@301d189a
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -309,7 +309,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b34eefc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25feabd6
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -317,7 +317,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ba07481
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d248df7
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->runtime]
@@ -325,7 +325,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6034a993
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@567d9fe8
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->runtime]
@@ -333,7 +333,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-server;1.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->asm#asm;3.1 [compile->default(compile)]
 [info] Resolving asm#asm;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42d9fe0e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42baa972
 [debug] sbt-chain: module revision found in cache: asm#asm;3.1
 [debug] 	found asm#asm;3.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->asm#asm;3.1 [compile->runtime]
@@ -341,7 +341,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->asm#asm;3.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d6588e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c8077b0
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->runtime]
@@ -349,7 +349,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-json;1.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cb70bf2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@466c8a3b
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -357,7 +357,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d065976
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13a0bb60
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.3
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->runtime]
@@ -365,7 +365,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4705e035
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eecf267
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.3
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->runtime]
@@ -373,7 +373,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.jackson#jackson-xc;1.8.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b414ae3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fe67fcb
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->runtime]
@@ -381,7 +381,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7de73cb7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16561485
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->runtime]
@@ -389,7 +389,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58e60d2a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5db70f42
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->runtime]
@@ -397,7 +397,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57e19e66
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a0526a8
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->runtime]
@@ -405,7 +405,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46a5bbe4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39b8756b
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->runtime]
@@ -413,7 +413,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c489ba2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69bf864
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->runtime]
@@ -421,7 +421,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ab19857
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40d5b799
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->runtime]
@@ -429,7 +429,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-launcher_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@734c8325
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ce9e911
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-launcher_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-launcher_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->runtime]
@@ -437,7 +437,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-launcher_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@718b939f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bf560ec
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -445,7 +445,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2eb053b3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9da1db
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-network-common_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->runtime]
@@ -453,7 +453,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-common_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.29.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c23f111
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f44a58b
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.29.Final
 [debug] 	found io.netty#netty-all;4.0.29.Final in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->runtime]
@@ -461,7 +461,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty-all;4.0.29.Final [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c7439c6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b325022
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->runtime]
@@ -469,7 +469,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-network-shuffle_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->default(compile)]
 [info] Resolving org.fusesource.leveldbjni#leveldbjni-all;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22c6366c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ff8add6
 [debug] sbt-chain: module revision found in cache: org.fusesource.leveldbjni#leveldbjni-all;1.8
 [debug] 	found org.fusesource.leveldbjni#leveldbjni-all;1.8 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->runtime]
@@ -477,7 +477,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.fusesource.leveldbjni#leveldbjni-all;1.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6014ff7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46fb35cd
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->runtime]
@@ -485,7 +485,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@358f9114
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@526e5aea
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->runtime]
@@ -493,7 +493,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7293dc09
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75af8243
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->runtime]
@@ -501,7 +501,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-unsafe_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52784433
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d63e6b3
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-unsafe_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-unsafe_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->runtime]
@@ -509,7 +509,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-unsafe_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@406db2f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b9696ce
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -517,7 +517,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26240115
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a60e14e
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -525,7 +525,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f1ae0df
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@779e265
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -533,7 +533,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11e24dc6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8e854aa
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -541,7 +541,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4416cc96
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39c3e691
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -549,7 +549,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4629c323
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e7a5518
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -557,7 +557,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33a3db75
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@abaf7ac
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->runtime]
@@ -573,7 +573,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@102c0c9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b8c4d16
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1
 [debug] 	found org.apache.commons#commons-math3;3.4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-math3;3.4.1 [compile->runtime]
@@ -589,7 +589,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d6e7b47
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e1f246b
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.10
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->runtime]
@@ -597,7 +597,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c393469
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3361089f
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.10
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->runtime]
@@ -605,7 +605,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43454e28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e209c0a
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.10
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->runtime]
@@ -613,7 +613,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55d3dcb3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@642d506d
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.3
 [debug] 	found com.ning#compress-lzf;1.0.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->runtime]
@@ -621,7 +621,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.ning#compress-lzf;1.0.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@362e0807
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4323d494
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.2
 [debug] 	found org.xerial.snappy#snappy-java;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->runtime]
@@ -629,7 +629,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.xerial.snappy#snappy-java;1.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ef83f9e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@547f705f
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.3.0
 [debug] 	found net.jpountz.lz4#lz4;1.3.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->runtime]
@@ -637,7 +637,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.jpountz.lz4#lz4;1.3.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.5.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@306715a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ced092a
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.5.11
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.5.11 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->runtime]
@@ -645,7 +645,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.roaringbitmap#RoaringBitmap;0.5.11 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56a7703d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64b5ea75
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -653,7 +653,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-remote_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e31b43e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@612067b0
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-remote_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->runtime]
@@ -661,7 +661,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-remote_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4154b6be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c8ec01c
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->runtime]
@@ -669,7 +669,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d73bf74
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f79fbdb
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -677,7 +677,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c8f209b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5029ad8c
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -685,7 +685,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eb6358d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c1d6cf7
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -693,7 +693,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75d3dddb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e430d19
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.11
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.11 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->runtime]
@@ -701,7 +701,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.11 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35197a19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19fa5ba0
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.11;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->runtime]
@@ -709,7 +709,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-jackson_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e28b8d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dddeb51
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.11;3.2.10
 [debug] 	found org.json4s#json4s-core_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->runtime]
@@ -717,7 +717,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-core_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.11;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fb619cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c96e7b8
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.11;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.11;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->runtime]
@@ -725,7 +725,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.json4s#json4s-ast_2.11;3.2.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@154bc0d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68538554
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -733,7 +733,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@257013b9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@687bebd
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.11.0
 [debug] 	found org.scala-lang#scalap;2.11.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->runtime]
@@ -741,7 +741,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scalap;2.11.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-core;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57fd8e43
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31623abb
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-core;1.9
 [debug] 	found com.sun.jersey#jersey-core;1.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->runtime]
@@ -749,7 +749,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.jersey#jersey-core;1.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@111335a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1802cc90
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.1
 [debug] 	found org.apache.mesos#mesos;0.21.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->runtime]
@@ -757,7 +757,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.mesos#mesos;0.21.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3158c1ad
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56bb25e2
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -765,7 +765,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c85d61f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b5fecea
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->runtime]
@@ -773,7 +773,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-core;3.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77fc5e70
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4000ad00
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->runtime]
@@ -781,7 +781,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-jvm;3.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@84886de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52baacda
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->runtime]
@@ -789,7 +789,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-json;3.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fe2135c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bd4f43a
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.2
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->runtime]
@@ -797,7 +797,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->io.dropwizard.metrics#metrics-graphite;3.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a80b9dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16fe82d2
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->runtime]
@@ -805,7 +805,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.11;2.4.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32834586
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7957a85
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -813,7 +813,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76a0f6a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d0352b3
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -821,7 +821,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1faa3004
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1003d9f9
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.8.2
 [debug] 	found org.tachyonproject#tachyon-client;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->runtime]
@@ -829,7 +829,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-client;0.8.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3be87961
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f49b82f
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -837,7 +837,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-hdfs;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51e59665
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cf9ce8d
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-hdfs;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-hdfs;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->runtime]
@@ -845,7 +845,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-hdfs;0.8.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-s3;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48c2cf86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55efbdc9
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-s3;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-s3;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->runtime]
@@ -853,7 +853,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-s3;0.8.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-underfs-local;0.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f6ae603
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@338f2fe
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-underfs-local;0.8.2
 [debug] 	found org.tachyonproject#tachyon-underfs-local;0.8.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->runtime]
@@ -861,7 +861,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.tachyonproject#tachyon-underfs-local;0.8.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->default(compile)]
 [info] Resolving net.razorvine#pyrolite;4.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d55e29c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17fbdd0d
 [debug] sbt-chain: module revision found in cache: net.razorvine#pyrolite;4.9
 [debug] 	found net.razorvine#pyrolite;4.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->runtime]
@@ -869,7 +869,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.razorvine#pyrolite;4.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dd32ec6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@462206ec
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.9
 [debug] 	found net.sf.py4j#py4j;0.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->runtime]
@@ -877,7 +877,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.py4j#py4j;0.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-sql_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7346889f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23d53ee9
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-sql_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-sql_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->runtime]
@@ -885,7 +885,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-sql_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-catalyst_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c658e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59e1bafe
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-catalyst_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-catalyst_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->runtime]
@@ -893,7 +893,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-catalyst_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dc69f05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@790ffd6
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-reflect;2.11.7
@@ -902,7 +902,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#janino;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b48284e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b310af6
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#janino;2.7.8
 [debug] 	found org.codehaus.janino#janino;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->runtime]
@@ -910,7 +910,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#janino;2.7.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->default(compile)]
 [info] Resolving org.codehaus.janino#commons-compiler;2.7.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fe4630d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74bc3674
 [debug] sbt-chain: module revision found in cache: org.codehaus.janino#commons-compiler;2.7.8
 [debug] 	found org.codehaus.janino#commons-compiler;2.7.8 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->runtime]
@@ -918,7 +918,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.janino#commons-compiler;2.7.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-column;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@781667b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43e6ae32
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-column;1.7.0
 [debug] 	found org.apache.parquet#parquet-column;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->runtime]
@@ -926,7 +926,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-column;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-common;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f7cd6de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72f0c320
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-common;1.7.0
 [debug] 	found org.apache.parquet#parquet-common;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->runtime]
@@ -934,7 +934,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-common;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-encoding;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cf97ce8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e4a13fd
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-encoding;1.7.0
 [debug] 	found org.apache.parquet#parquet-encoding;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->runtime]
@@ -942,7 +942,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-encoding;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-generator;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cddc0ca
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57ea998d
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-generator;1.7.0
 [debug] 	found org.apache.parquet#parquet-generator;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->runtime]
@@ -950,7 +950,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-generator;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-hadoop;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a205d94
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f26b9e7
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-hadoop;1.7.0
 [debug] 	found org.apache.parquet#parquet-hadoop;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->runtime]
@@ -958,7 +958,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-hadoop;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-format;2.3.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@505ba354
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a6df4aa
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-format;2.3.0-incubating
 [debug] 	found org.apache.parquet#parquet-format;2.3.0-incubating in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->runtime]
@@ -966,7 +966,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-format;2.3.0-incubating [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->default(compile)]
 [info] Resolving org.apache.parquet#parquet-jackson;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@524a685c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c5c52eb
 [debug] sbt-chain: module revision found in cache: org.apache.parquet#parquet-jackson;1.7.0
 [debug] 	found org.apache.parquet#parquet-jackson;1.7.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->runtime]
@@ -974,7 +974,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.parquet#parquet-jackson;1.7.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-mllib_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61dc89d6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@549627dd
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-mllib_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-mllib_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->runtime]
@@ -982,7 +982,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-mllib_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16a2766e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2da98eb
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-streaming_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->runtime]
@@ -990,7 +990,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-graphx_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e0d5924
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c4a754a
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-graphx_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-graphx_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->runtime]
@@ -998,7 +998,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-graphx_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@555066a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38b1726b
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -1006,7 +1006,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@324fd114
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e8685af
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->runtime]
@@ -1014,7 +1014,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@226f9ad0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73997e45
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->runtime]
@@ -1022,7 +1022,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b761d0a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@476077fa
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -1030,7 +1030,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bbf50a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7310b888
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -1038,7 +1038,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36e33ed3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56831bce
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -1046,7 +1046,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f94241c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9b98c71
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -1054,7 +1054,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-model;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@302aea4d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6836a4c6
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-model;1.1.15
 [debug] 	found org.jpmml#pmml-model;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->runtime]
@@ -1062,7 +1062,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-model;1.1.15 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-agent;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14c6d615
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c5c9fe
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-agent;1.1.15
 [debug] 	found org.jpmml#pmml-agent;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->runtime]
@@ -1070,7 +1070,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-agent;1.1.15 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->default(compile)]
 [info] Resolving org.jpmml#pmml-schema;1.1.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15d59dfa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23d781b9
 [debug] sbt-chain: module revision found in cache: org.jpmml#pmml-schema;1.1.15
 [debug] 	found org.jpmml#pmml-schema;1.1.15 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->runtime]
@@ -1078,7 +1078,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jpmml#pmml-schema;1.1.15 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e0c402b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@532bcdef
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->runtime]
@@ -1086,7 +1086,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-impl;2.2.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-core;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@328eff42
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ba238c8
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-core;2.2.7
 [debug] 	found com.sun.xml.bind#jaxb-core;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->runtime]
@@ -1094,7 +1094,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.bind#jaxb-core;2.2.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16480dea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d1a4463
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.7
 [debug] 	found javax.xml.bind#jaxb-api;2.2.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->runtime]
@@ -1102,7 +1102,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.xml.bind#jaxb-api;2.2.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->default(compile)]
 [info] Resolving com.sun.istack#istack-commons-runtime;2.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6faa589b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ba59b1a
 [debug] sbt-chain: module revision found in cache: com.sun.istack#istack-commons-runtime;2.16
 [debug] 	found com.sun.istack#istack-commons-runtime;2.16 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->runtime]
@@ -1110,7 +1110,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.istack#istack-commons-runtime;2.16 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->default(compile)]
 [info] Resolving com.sun.xml.fastinfoset#FastInfoset;1.2.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78d53fb8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c47289d
 [debug] sbt-chain: module revision found in cache: com.sun.xml.fastinfoset#FastInfoset;1.2.12
 [debug] 	found com.sun.xml.fastinfoset#FastInfoset;1.2.12 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->runtime]
@@ -1118,7 +1118,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.sun.xml.fastinfoset#FastInfoset;1.2.12 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.databricks#spark-csv_2.11;1.4.0 [compile->default(compile)]
 [info] Resolving com.databricks#spark-csv_2.11;1.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77f420de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17008fa4
 [debug] sbt-chain: module revision found in cache: com.databricks#spark-csv_2.11;1.4.0
 [debug] 	found com.databricks#spark-csv_2.11;1.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.databricks#spark-csv_2.11;1.4.0 [compile->runtime]
@@ -1126,7 +1126,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.databricks#spark-csv_2.11;1.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-csv;1.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-csv;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f2347f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fd0c7fd
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-csv;1.1
 [debug] 	found org.apache.commons#commons-csv;1.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-csv;1.1 [compile->runtime]
@@ -1134,7 +1134,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.commons#commons-csv;1.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.univocity#univocity-parsers;1.5.1 [compile->default(compile)]
 [info] Resolving com.univocity#univocity-parsers;1.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f02f258
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@111f82b0
 [debug] sbt-chain: module revision found in cache: com.univocity#univocity-parsers;1.5.1
 [debug] 	found com.univocity#univocity-parsers;1.5.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.univocity#univocity-parsers;1.5.1 [compile->runtime]
@@ -1142,7 +1142,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.univocity#univocity-parsers;1.5.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-hive_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-hive_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@777aca0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cef3802
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-hive_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-hive_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-hive_2.11;1.6.0 [compile->runtime]
@@ -1150,7 +1150,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-hive_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->default(compile)]
 [info] Resolving com.twitter#parquet-hadoop-bundle;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@df625cf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48a81c6d
 [debug] sbt-chain: module revision found in cache: com.twitter#parquet-hadoop-bundle;1.6.0
 [debug] 	found com.twitter#parquet-hadoop-bundle;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->runtime]
@@ -1158,7 +1158,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.twitter#parquet-hadoop-bundle;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-exec;1.2.1.spark [compile->default(compile)]
 [info] Resolving org.spark-project.hive#hive-exec;1.2.1.spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@91b8a43
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c09709a
 [debug] sbt-chain: module revision found in cache: org.spark-project.hive#hive-exec;1.2.1.spark
 [debug] 	found org.spark-project.hive#hive-exec;1.2.1.spark in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-exec;1.2.1.spark [compile->runtime]
@@ -1166,7 +1166,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-exec;1.2.1.spark [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36604b13
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e3cc023
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.6
 [debug] 	found commons-lang#commons-lang;2.6 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->runtime]
@@ -1174,7 +1174,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javolution#javolution;5.5.1 [compile->default(compile)]
 [info] Resolving javolution#javolution;5.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32f5244c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a265d32
 [debug] sbt-chain: module revision found in cache: javolution#javolution;5.5.1
 [debug] 	found javolution#javolution;5.5.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javolution#javolution;5.5.1 [compile->runtime]
@@ -1182,7 +1182,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javolution#javolution;5.5.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#antlr-runtime;3.4 [compile->default(compile)]
 [info] Resolving org.antlr#antlr-runtime;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7693f87a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@723e6d18
 [debug] sbt-chain: module revision found in cache: org.antlr#antlr-runtime;3.4
 [debug] 	found org.antlr#antlr-runtime;3.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#antlr-runtime;3.4 [compile->runtime]
@@ -1190,7 +1190,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#antlr-runtime;3.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#stringtemplate;3.2.1 [compile->default(compile)]
 [info] Resolving org.antlr#stringtemplate;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d612746
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ca39d77
 [debug] sbt-chain: module revision found in cache: org.antlr#stringtemplate;3.2.1
 [debug] 	found org.antlr#stringtemplate;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#stringtemplate;3.2.1 [compile->runtime]
@@ -1198,7 +1198,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#stringtemplate;3.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#ST4;4.0.4 [compile->default(compile)]
 [info] Resolving org.antlr#ST4;4.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16a56ab8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ebf97da
 [debug] sbt-chain: module revision found in cache: org.antlr#ST4;4.0.4
 [debug] 	found org.antlr#ST4;4.0.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#ST4;4.0.4 [compile->runtime]
@@ -1206,7 +1206,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.antlr#ST4;4.0.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.groovy#groovy-all;2.1.6 [compile->default(compile)]
 [info] Resolving org.codehaus.groovy#groovy-all;2.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77ece040
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2393b4fa
 [debug] sbt-chain: module revision found in cache: org.codehaus.groovy#groovy-all;2.1.6
 [debug] 	found org.codehaus.groovy#groovy-all;2.1.6 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.groovy#groovy-all;2.1.6 [compile->runtime]
@@ -1214,7 +1214,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.codehaus.groovy#groovy-all;2.1.6 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jodd#jodd-core;3.5.2 [compile->default(compile)]
 [info] Resolving org.jodd#jodd-core;3.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e616f65
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b5b1892
 [debug] sbt-chain: module revision found in cache: org.jodd#jodd-core;3.5.2
 [debug] 	found org.jodd#jodd-core;3.5.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jodd#jodd-core;3.5.2 [compile->runtime]
@@ -1222,7 +1222,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.jodd#jodd-core;3.5.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-core;3.2.10 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-core;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b977b8f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4209b7c
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-core;3.2.10
 [debug] 	found org.datanucleus#datanucleus-core;3.2.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-core;3.2.10 [compile->runtime]
@@ -1230,7 +1230,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-core;3.2.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-avatica;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@594961d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52963558
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-avatica;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-avatica;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->runtime]
@@ -1238,7 +1238,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-avatica;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->default(compile)]
 [info] Resolving com.googlecode.javaewah#JavaEWAH;0.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56d47236
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5078673f
 [debug] sbt-chain: module revision found in cache: com.googlecode.javaewah#JavaEWAH;0.3.2
 [debug] 	found com.googlecode.javaewah#JavaEWAH;0.3.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->runtime]
@@ -1246,7 +1246,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.googlecode.javaewah#JavaEWAH;0.3.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.iq80.snappy#snappy;0.2 [compile->default(compile)]
 [info] Resolving org.iq80.snappy#snappy;0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf823f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bee5e26
 [debug] sbt-chain: module revision found in cache: org.iq80.snappy#snappy;0.2
 [debug] 	found org.iq80.snappy#snappy;0.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.iq80.snappy#snappy;0.2 [compile->runtime]
@@ -1254,7 +1254,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.iq80.snappy#snappy;0.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->jline#jline;2.12 [compile->default(compile)]
 [info] Resolving jline#jline;2.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22ee69fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cd87022
 [debug] sbt-chain: module revision found in cache: jline#jline;2.12
 [debug] 	found jline#jline;2.12 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->jline#jline;2.12 [compile->runtime]
@@ -1262,7 +1262,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->jline#jline;2.12 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-metastore;1.2.1.spark [compile->default(compile)]
 [info] Resolving org.spark-project.hive#hive-metastore;1.2.1.spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e32f25
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ea3f037
 [debug] sbt-chain: module revision found in cache: org.spark-project.hive#hive-metastore;1.2.1.spark
 [debug] 	found org.spark-project.hive#hive-metastore;1.2.1.spark in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-metastore;1.2.1.spark [compile->runtime]
@@ -1270,7 +1270,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spark-project.hive#hive-metastore;1.2.1.spark [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->default(compile)]
 [info] Resolving com.jolbox#bonecp;0.8.0.RELEASE ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8efb98
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64588829
 [debug] sbt-chain: module revision found in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	found com.jolbox#bonecp;0.8.0.RELEASE in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->runtime]
@@ -1278,7 +1278,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f42fea1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@611cac12
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.3
 [debug] 	found commons-logging#commons-logging;1.1.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->runtime]
@@ -1286,7 +1286,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-logging#commons-logging;1.1.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-api-jdo;3.2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f1466c2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51261a9c
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-api-jdo;3.2.6
 [debug] 	found org.datanucleus#datanucleus-api-jdo;3.2.6 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->runtime]
@@ -1294,7 +1294,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-api-jdo;3.2.6 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->default(compile)]
 [info] Resolving org.datanucleus#datanucleus-rdbms;3.2.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d1275be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d0f6102
 [debug] sbt-chain: module revision found in cache: org.datanucleus#datanucleus-rdbms;3.2.9
 [debug] 	found org.datanucleus#datanucleus-rdbms;3.2.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->runtime]
@@ -1302,7 +1302,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.datanucleus#datanucleus-rdbms;3.2.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-pool#commons-pool;1.5.4 [compile->default(compile)]
 [info] Resolving commons-pool#commons-pool;1.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1605ed3f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42794ca0
 [debug] sbt-chain: module revision found in cache: commons-pool#commons-pool;1.5.4
 [debug] 	found commons-pool#commons-pool;1.5.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-pool#commons-pool;1.5.4 [compile->runtime]
@@ -1310,7 +1310,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-pool#commons-pool;1.5.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-dbcp#commons-dbcp;1.4 [compile->default(compile)]
 [info] Resolving commons-dbcp#commons-dbcp;1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45de7b45
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18507f03
 [debug] sbt-chain: module revision found in cache: commons-dbcp#commons-dbcp;1.4
 [debug] 	found commons-dbcp#commons-dbcp;1.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-dbcp#commons-dbcp;1.4 [compile->runtime]
@@ -1318,7 +1318,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-dbcp#commons-dbcp;1.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.jdo#jdo-api;3.0.1 [compile->default(compile)]
 [info] Resolving javax.jdo#jdo-api;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d1270c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46c011ea
 [debug] sbt-chain: module revision found in cache: javax.jdo#jdo-api;3.0.1
 [debug] 	found javax.jdo#jdo-api;3.0.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.jdo#jdo-api;3.0.1 [compile->runtime]
@@ -1326,7 +1326,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.jdo#jdo-api;3.0.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7988661b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14bc1d09
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
@@ -1334,7 +1334,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-core;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-core;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29a1387d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a3108a4
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-core;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-core;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-core;1.2.0-incubating [compile->runtime]
@@ -1342,7 +1342,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-core;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->default(compile)]
 [info] Resolving org.apache.calcite#calcite-linq4j;1.2.0-incubating ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ec1e652
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@495e2981
 [debug] sbt-chain: module revision found in cache: org.apache.calcite#calcite-linq4j;1.2.0-incubating
 [debug] 	found org.apache.calcite#calcite-linq4j;1.2.0-incubating in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->runtime]
@@ -1350,7 +1350,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.calcite#calcite-linq4j;1.2.0-incubating [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.hydromatic#eigenbase-properties;1.1.5 [compile->default(compile)]
 [info] Resolving net.hydromatic#eigenbase-properties;1.1.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@623a978d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5df6d142
 [debug] sbt-chain: module revision found in cache: net.hydromatic#eigenbase-properties;1.1.5
 [debug] 	found net.hydromatic#eigenbase-properties;1.1.5 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.hydromatic#eigenbase-properties;1.1.5 [compile->runtime]
@@ -1358,7 +1358,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->net.hydromatic#eigenbase-properties;1.1.5 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.2 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b98a3a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@757e3c21
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.3.2
 [debug] 	found org.apache.httpcomponents#httpclient;4.3.2 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.2 [compile->runtime]
@@ -1366,7 +1366,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.3.2 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@122c2ba0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@157835ce
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.3.1
 [debug] 	found org.apache.httpcomponents#httpcore;4.3.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.1 [compile->runtime]
@@ -1374,7 +1374,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.3.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4dd465f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@474f7b7
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->runtime]
@@ -1382,7 +1382,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->joda-time#joda-time;2.9 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@388f9a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43d37c07
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9
 [debug] 	found joda-time#joda-time;2.9 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->joda-time#joda-time;2.9 [compile->runtime]
@@ -1390,7 +1390,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->joda-time#joda-time;2.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming-kafka_2.11;1.6.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming-kafka_2.11;1.6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ab46041
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56d6b2b2
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming-kafka_2.11;1.6.0
 [debug] 	found org.apache.spark#spark-streaming-kafka_2.11;1.6.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming-kafka_2.11;1.6.0 [compile->runtime]
@@ -1398,7 +1398,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.spark#spark-streaming-kafka_2.11;1.6.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka_2.11;0.8.2.1 [compile->default(compile)]
 [info] Resolving org.apache.kafka#kafka_2.11;0.8.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41ee706c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4af2ae4d
 [debug] sbt-chain: module revision found in cache: org.apache.kafka#kafka_2.11;0.8.2.1
 [debug] 	found org.apache.kafka#kafka_2.11;0.8.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka_2.11;0.8.2.1 [compile->runtime]
@@ -1406,7 +1406,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka_2.11;0.8.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->default(compile)]
 [info] Resolving com.yammer.metrics#metrics-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3358b6ce
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f8432a6
 [debug] sbt-chain: module revision found in cache: com.yammer.metrics#metrics-core;2.2.0
 [debug] 	found com.yammer.metrics#metrics-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->runtime]
@@ -1414,7 +1414,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.101tec#zkclient;0.3 [compile->default(compile)]
 [info] Resolving com.101tec#zkclient;0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1632d21d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cbed3fd
 [debug] sbt-chain: module revision found in cache: com.101tec#zkclient;0.3
 [debug] 	found com.101tec#zkclient;0.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.101tec#zkclient;0.3 [compile->runtime]
@@ -1422,7 +1422,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.101tec#zkclient;0.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka-clients;0.8.2.1 [compile->default(compile)]
 [info] Resolving org.apache.kafka#kafka-clients;0.8.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@627ba26f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14692771
 [debug] sbt-chain: module revision found in cache: org.apache.kafka#kafka-clients;0.8.2.1
 [debug] 	found org.apache.kafka#kafka-clients;0.8.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka-clients;0.8.2.1 [compile->runtime]
@@ -1430,7 +1430,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.apache.kafka#kafka-clients;0.8.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.scopt#scopt_2.11;3.4.0 [compile->default(compile)]
 [info] Resolving com.github.scopt#scopt_2.11;3.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35711043
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19e37f3d
 [debug] sbt-chain: module revision found in cache: com.github.scopt#scopt_2.11;3.4.0
 [debug] 	found com.github.scopt#scopt_2.11;3.4.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.scopt#scopt_2.11;3.4.0 [compile->runtime]
@@ -1438,7 +1438,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.github.scopt#scopt_2.11;3.4.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-core_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@547a0dd6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@616388e6
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-core_2.11;3.7
 [debug] 	found org.specs2#specs2-core_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.7 [compile->runtime]
@@ -1446,7 +1446,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-matcher_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44006935
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ba8f518
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-matcher_2.11;3.7
 [debug] 	found org.specs2#specs2-matcher_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.7 [compile->runtime]
@@ -1454,7 +1454,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-common_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38ecbc72
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@866abd
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-common_2.11;3.7
 [debug] 	found org.specs2#specs2-common_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.7 [compile->runtime]
@@ -1462,7 +1462,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [compile->default(compile)]
 [info] Resolving org.spire-math#kind-projector_2.11;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f6f74e5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2088f18e
 [debug] sbt-chain: module revision found in cache: org.spire-math#kind-projector_2.11;0.7.1
 [debug] 	found org.spire-math#kind-projector_2.11;0.7.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [compile->runtime]
@@ -1470,7 +1470,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6439a494
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c141c73
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	found org.scala-lang#scala-compiler;2.11.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [compile->runtime]
@@ -1478,7 +1478,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4de63c0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36753693
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->runtime]
@@ -1486,7 +1486,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d130642
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a397cc5
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->runtime]
@@ -1494,7 +1494,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.0 [compile->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b21f80d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19c34535
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.2.0
 [debug] 	found org.scalaz#scalaz-core_2.11;7.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.0 [compile->runtime]
@@ -1502,7 +1502,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.0 [compile->default(compile)]
 [info] Resolving org.scalaz#scalaz-effect_2.11;7.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77832c2e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@289efc97
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.2.0
 [debug] 	found org.scalaz#scalaz-effect_2.11;7.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.0 [compile->runtime]
@@ -1510,7 +1510,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.0 [compile->default(compile)]
 [info] Resolving org.scalaz#scalaz-concurrent_2.11;7.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@114a32e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ae8d30d
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.2.0
 [debug] 	found org.scalaz#scalaz-concurrent_2.11;7.2.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.0 [compile->runtime]
@@ -1518,7 +1518,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [compile->default(compile)]
 [info] Resolving org.scalaz.stream#scalaz-stream_2.11;0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1824a9d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35a52aae
 [debug] sbt-chain: module revision found in cache: org.scalaz.stream#scalaz-stream_2.11;0.8
 [debug] 	found org.scalaz.stream#scalaz-stream_2.11;0.8 in sbt-chain
 [debug] 	[0.8] org.scalaz.stream#scalaz-stream_2.11;0.8
@@ -1527,7 +1527,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [compile->default(compile)]
 [info] Resolving org.scodec#scodec-bits_2.11;1.0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e426ce6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78ab0194
 [debug] sbt-chain: module revision found in cache: org.scodec#scodec-bits_2.11;1.0.9
 [debug] 	found org.scodec#scodec-bits_2.11;1.0.9 in sbt-chain
 [debug] 	[1.0.9] org.scodec#scodec-bits_2.11;1.0.9
@@ -1536,7 +1536,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-junit_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@196272bb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37fbbff
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-junit_2.11;3.7
 [debug] 	found org.specs2#specs2-junit_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.7 [compile->runtime]
@@ -1544,7 +1544,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->junit#junit;4.12 [compile->default(compile)]
 [info] Resolving junit#junit;4.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@293bb4c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d5f7cd5
 [debug] sbt-chain: module revision found in cache: junit#junit;4.12
 [debug] 	found junit#junit;4.12 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->junit#junit;4.12 [compile->runtime]
@@ -1552,7 +1552,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->junit#junit;4.12 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [compile->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ef12024
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@244f4cae
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [compile->runtime]
@@ -1560,7 +1560,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher-extra_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-matcher-extra_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d32d034
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65a94702
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-matcher-extra_2.11;3.7
 [debug] 	found org.specs2#specs2-matcher-extra_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher-extra_2.11;3.7 [compile->runtime]
@@ -1568,7 +1568,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-matcher-extra_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-analysis_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-analysis_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ad940d5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74bd422
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-analysis_2.11;3.7
 [debug] 	found org.specs2#specs2-analysis_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-analysis_2.11;3.7 [compile->runtime]
@@ -1576,7 +1576,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-analysis_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#classycle;1.4.3 [compile->default(compile)]
 [info] Resolving org.specs2#classycle;1.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a870a33
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22059213
 [debug] sbt-chain: module revision found in cache: org.specs2#classycle;1.4.3
 [debug] 	found org.specs2#classycle;1.4.3 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#classycle;1.4.3 [compile->runtime]
@@ -1584,7 +1584,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#classycle;1.4.3 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-mock_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1461f52d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e6c1941
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-mock_2.11;3.7
 [debug] 	found org.specs2#specs2-mock_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.7 [compile->runtime]
@@ -1592,7 +1592,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [compile->default(compile)]
 [info] Resolving org.mockito#mockito-core;1.9.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3735f7ff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@776c9285
 [debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
 [debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [compile->runtime]
@@ -1600,7 +1600,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-scalacheck_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-scalacheck_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1235e034
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43af9a77
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-scalacheck_2.11;3.7
 [debug] 	found org.specs2#specs2-scalacheck_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-scalacheck_2.11;3.7 [compile->runtime]
@@ -1608,7 +1608,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-scalacheck_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalacheck#scalacheck_2.11;1.12.5 [compile->default(compile)]
 [info] Resolving org.scalacheck#scalacheck_2.11;1.12.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dfe053f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b40da4a
 [debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.11;1.12.5
 [debug] 	found org.scalacheck#scalacheck_2.11;1.12.5 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalacheck#scalacheck_2.11;1.12.5 [compile->runtime]
@@ -1616,7 +1616,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scalacheck#scalacheck_2.11;1.12.5 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16d4fac7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@228add07
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
@@ -1624,7 +1624,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-gwt_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-gwt_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@82fa455
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48080eb6
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-gwt_2.11;3.7
 [debug] 	found org.specs2#specs2-gwt_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-gwt_2.11;3.7 [compile->runtime]
@@ -1632,7 +1632,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-gwt_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.2.5 [compile->default(compile)]
 [info] Resolving com.chuusai#shapeless_2.11;2.2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73e22d1f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@207f8769
 [debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.11;2.2.5
 [debug] 	found com.chuusai#shapeless_2.11;2.2.5 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.2.5 [compile->runtime]
@@ -1640,7 +1640,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->com.chuusai#shapeless_2.11;2.2.5 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-html_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-html_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@679fa099
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ffb2490
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-html_2.11;3.7
 [debug] 	found org.specs2#specs2-html_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-html_2.11;3.7 [compile->runtime]
@@ -1648,7 +1648,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-html_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-form_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-form_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ae23e40
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5575b290
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-form_2.11;3.7
 [debug] 	found org.specs2#specs2-form_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-form_2.11;3.7 [compile->runtime]
@@ -1656,7 +1656,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-form_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-markdown_2.11;3.7 [compile->default(compile)]
 [info] Resolving org.specs2#specs2-markdown_2.11;3.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c8ba1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@12539ca8
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-markdown_2.11;3.7
 [debug] 	found org.specs2#specs2-markdown_2.11;3.7 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-markdown_2.11;3.7 [compile->runtime]
@@ -1664,7 +1664,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.specs2#specs2-markdown_2.11;3.7 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.pegdown#pegdown;1.2.1 [compile->default(compile)]
 [info] Resolving org.pegdown#pegdown;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71e9d532
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@558fd6b8
 [debug] sbt-chain: module revision found in cache: org.pegdown#pegdown;1.2.1
 [debug] 	found org.pegdown#pegdown;1.2.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.pegdown#pegdown;1.2.1 [compile->runtime]
@@ -1672,7 +1672,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.pegdown#pegdown;1.2.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [compile->default(compile)]
 [info] Resolving org.parboiled#parboiled-java;1.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@362e814e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27d82d15
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-java;1.1.4
 [debug] 	found org.parboiled#parboiled-java;1.1.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [compile->runtime]
@@ -1680,7 +1680,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [compile->default(compile)]
 [info] Resolving org.parboiled#parboiled-core;1.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4dc15895
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11da98e5
 [debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.4
 [debug] 	found org.parboiled#parboiled-core;1.1.4 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [compile->runtime]
@@ -1688,7 +1688,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.parboiled#parboiled-core;1.1.4 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm;4.1 [compile->default(compile)]
 [info] Resolving org.ow2.asm#asm;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@311e2b47
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69c7d93e
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;4.1
 [debug] 	found org.ow2.asm#asm;4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm;4.1 [compile->runtime]
@@ -1696,7 +1696,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm;4.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-tree;4.1 [compile->default(compile)]
 [info] Resolving org.ow2.asm#asm-tree;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7499f311
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31e57ba5
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-tree;4.1
 [debug] 	found org.ow2.asm#asm-tree;4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-tree;4.1 [compile->runtime]
@@ -1704,7 +1704,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-tree;4.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [compile->default(compile)]
 [info] Resolving org.ow2.asm#asm-analysis;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1471dca0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2617fc8a
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-analysis;4.1
 [debug] 	found org.ow2.asm#asm-analysis;4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [compile->runtime]
@@ -1712,7 +1712,7 @@
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [compile->master]
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-util;4.1 [compile->default(compile)]
 [info] Resolving org.ow2.asm#asm-util;4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21c99371
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55d737eb
 [debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-util;4.1
 [debug] 	found org.ow2.asm#asm-util;4.1 in sbt-chain
 [debug] == resolving dependencies default#truemotiontimeseries$sources_2.11;1.0->org.ow2.asm#asm-util;4.1 [compile->runtime]
@@ -14168,7 +14168,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 20913ms :: artifacts dl 2989ms
+[debug] :: resolution report :: resolve 27534ms :: artifacts dl 3155ms
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 compile produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-compile.xml
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 runtime produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-runtime.xml
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 test produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-test.xml
@@ -14182,4 +14182,4 @@
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 docs produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-docs.xml
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 pom produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-pom.xml
 [debug] 	report for default#truemotiontimeseries$sources_2.11;1.0 scala-tool produced in /Users/mudasser/Documents/Data Sciences/TrueMotionTimeSeries/target/resolution-cache/reports/default-truemotiontimeseries$sources_2.11-scala-tool.xml
-[debug] 	resolve done (20913ms resolve - 2989ms download)
+[debug] 	resolve done (27534ms resolve - 3155ms download)
