@@ -15,7 +15,7 @@ import org.apache.spark.ml.feature.VectorIndexer
 import org.apache.spark.ml.feature.VectorAssembler
 import org.apache.spark.ml.regression.{RandomForestRegressionModel, RandomForestRegressor}
 
-object TimeSeriesModel {
+object TimeSeriesRegressionModel {
 
   def main(args: Array[String]): Unit = {
 
@@ -97,22 +97,8 @@ object TimeSeriesModel {
     val rmse = evaluator.evaluate(predictions)
     println("Root Mean Squared Error (RMSE) on test data = " + rmse)
 
-
-    /*
-       // Train the model and Cross validate
-      val rf = new RandomForestClassifier()
-
-      val pipeline = new Pipeline().setStages(Array(rf))
-
-      val cv = new CrossValidator()
-         .setNumFolds(10)
-         .setEstimator(pipeline)
-         .setEvaluator(new BinaryClassificationEvaluator)
-
-      val cmModel = cv.fit(output)
-
-    */
-
+    val rfModel = model.stages(0).asInstanceOf[RandomForestRegressionModel]
+    println("Learned regression forest model:\n" + rfModel.toDebugString)
   }
 
 }
