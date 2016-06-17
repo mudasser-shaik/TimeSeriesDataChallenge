@@ -2,7 +2,7 @@
 Data challenge on TimeSeries data. 
 Each User has a File sample_user_(0 to 9)
 
-val timeSeriesDF = sqlContext.read.json("/mnt/interview_data_yJBC/sample_user_0.json.gz")
+val timeSeriesDF = sqlContext.read.json("/mnt/timeSeriesData/user0.json.gz")
 timeSeriesDF.printSchema()
 
 User*
